@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.less","app.css"],"names":[],"mappings":"AAAA;EACC,qCAAA;CCCA","file":"app.css","sourcesContent":["body {\n\tbackground-image: url('/elixir.png');\n}\n","body {\n  background-image: url('/elixir.png');\n}\n"]}
